@@ -1,0 +1,36 @@
+{
+    "posts":[
+        {
+            "id": 1,
+            "title": "Getting Started with Vue 3 Composition API",
+            "body": "Learn the basics of Vue 3's Composition API and how it differs from the Options API.",
+            "tags": ["vue", "composition-api", "javascript", "beginner"],
+            "author": "Alice",
+            "date": "2025-05-01"
+        },
+        {
+            "id": 2,
+            "title": "Building a Blog with Vue and JSON Server",
+            "body": "A step-by-step guide to building a simple blog using Vue.js and a mock backend with JSON Server.",
+            "tags": ["vue", "json-server", "tutorial", "blog"],
+            "author": "Bob",
+            "date": "2025-05-10"
+        },
+        {
+            "id": 3,
+            "title": "Understanding Reactivity in Vue 3",
+            "body": "Deep dive into Vue 3's reactivity system and how to leverage it in your projects.",
+            "tags": ["vue", "reactivity", "advanced"],
+            "author": "Carol",
+            "date": "2025-05-15"
+        },
+        {
+            "id": 4,
+            "title": "Using Vue Router with Composition API",
+            "body": "How to use Vue Router in a Vue 3 project that uses the Composition API.",
+            "tags": ["vue", "vue-router", "composition-api", "routing"],
+            "author": "Dan",
+            "date": "2025-05-20"
+        }
+    ]
+}
