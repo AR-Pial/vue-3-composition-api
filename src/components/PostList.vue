@@ -22,5 +22,13 @@ export default {
 </script>
 
 <style scoped>
-
+/* Blog post list styles */
+.post-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  max-width: 700px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
 </style>

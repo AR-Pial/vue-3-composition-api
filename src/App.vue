@@ -3,11 +3,11 @@
 </template>
 
 <style>
+/* Modern blog layout styles */
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: #f7f9fa;
+  min-height: 100vh;
+  color: #222;
 }
 </style>
